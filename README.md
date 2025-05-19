@@ -81,6 +81,6 @@ git clone https://github.com/vsoares99/lista-exercicios-01.git
 
 The [MIT License]() (MIT)
 
-Copyright :copyright: 2025 -
+Copyright :copyright: 2025 - Lista de Exercícios 01
 
 ---

@@ -65,7 +65,7 @@ git clone https://github.com/vsoares99/lista-exercicios-01.git
 
 ## Deploy da Aplicação :dash:
 
-> https://challenge-amigo-secreto-weld.vercel.app
+> https://listaexercicios01.netlify.app
 
 ## Pré-requisitos
 

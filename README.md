@@ -52,7 +52,7 @@ Este projeto foi desenvolvido como parte dos estudos de lógica de programação
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/seuusuario/seurepositorio.git
+git clone https://github.com/vsoares99/lista-exercicios-01.git
 ```
 
 2. Abra o arquivo `index.html` no navegador ou use uma extensão como o **Live Server** no VSCode.
@@ -63,10 +63,14 @@ git clone https://github.com/seuusuario/seurepositorio.git
 - CSS3
 - JavaScript (Vanilla)
 
-## 🙋‍♂️ Autor
+## Deploy da Aplicação :dash:
 
-Desenvolvido por **Victor Soares**  
-[GitHub](https://github.com/vsoares99) | [LinkedIn](https://www.linkedin.com/in/victorsoares99/)
+> https://challenge-amigo-secreto-weld.vercel.app
+
+## Pré-requisitos
+
+- :warning: Navegador atualizado (Chrome, Firefox, Edge, OperaGX).
+- :warning:  Conexão com a internet (para carregar fontes do Google Fonts).
 
 ## Desenvolvedor :octocat:
 

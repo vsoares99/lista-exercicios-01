@@ -57,15 +57,15 @@ git clone https://github.com/vsoares99/lista-exercicios-01.git
 
 2. Abra o arquivo `index.html` no navegador ou use uma extensão como o **Live Server** no VSCode.
 
+## Deploy da Aplicação :dash:
+
+> https://listaexercicios01.netlify.app
+
 ## 🛠 Tecnologias Utilizadas
 
 - HTML5
 - CSS3
 - JavaScript (Vanilla)
-
-## Deploy da Aplicação :dash:
-
-> https://listaexercicios01.netlify.app
 
 ## Pré-requisitos
 

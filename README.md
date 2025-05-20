@@ -1,14 +1,12 @@
 
 # 🧠 Lista de Exercícios de Lógica de Programação
 
-Este projeto foi desenvolvido como parte dos estudos de lógica de programação, utilizando **HTML**, **CSS** e **JavaScript**. Cada exercício está organizado em uma página separada, com navegação entre eles, interface responsiva e foco em boa usabilidade.
+Este projeto foi desenvolvido como parte dos estudos de lógica de programação do curso +PraTI & Codifica Educação, utilizando **HTML**, **CSS** e **JavaScript**. Cada exercício está organizado em uma página separada, com navegação entre eles.
 
 ## ✨ Funcionalidades
 
-- ✅ Interface amigável e responsiva
 - ✅ Cada exercício em uma página individual
 - ✅ Navegação com setas para o exercício anterior e próximo
-- ✅ Estilização moderna com CSS
 - ✅ Exercícios interativos com JavaScript
 
 ## 📁 Estrutura do Projeto

@@ -1,5 +1,5 @@
 
-# 🧠 Lista de Exercícios de Lógica de Programação
+# 🧠 Lista de Exercícios 01 | +PraTI & Codifica Educação
 
 Este projeto foi desenvolvido como parte dos estudos de lógica de programação do curso +PraTI & Codifica Educação, utilizando **HTML**, **CSS** e **JavaScript**. Cada exercício está organizado em uma página separada, com navegação entre eles.
 

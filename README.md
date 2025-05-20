@@ -1,4 +1,7 @@
 
+![ListaDeExercicios](https://github.com/user-attachments/assets/a250d59a-56e7-49a2-b635-fc045a44e48f)
+
+
 # 🧠 Lista de Exercícios 01 | +PraTI & Codifica Educação
 
 Este projeto foi desenvolvido como parte dos estudos de lógica de programação do curso +PraTI & Codifica Educação, utilizando **HTML**, **CSS** e **JavaScript**. Cada exercício está organizado em uma página separada, com navegação entre eles.
